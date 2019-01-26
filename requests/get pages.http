@@ -1,0 +1,8 @@
+GET http://localhost:8090/hotels/get?page=10&size=5
+Accept: application/json
+Content-Type: application/json
+
+{"name" : "Beds", "description" : "Very basic, small rooms but clean", "city" : "Santa Ana", "rating" : 2 }
+
+###
+

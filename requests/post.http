@@ -1,0 +1,8 @@
+POST http://localhost:8090/hotels/create
+Accept: application/json
+Content-Type: application/json
+
+{"name" : "motel 10", "description" : "this is the best ", "city" : "philadelphia", "rating" : 1 }
+
+###
+

@@ -1,0 +1,5 @@
+DELETE http://localhost:8090/hotels/3
+Accept: application/json
+
+###
+

@@ -1,0 +1,12 @@
+PUT http://localhost:8090/hotels/3
+Accept: application/json
+Content-Type: application/json
+
+
+{"id":"3","name" : "Beds_latest", "description" : "Very basic, small rooms but clean", "city" : "Santa Ana", "rating" : 2 }
+
+<> 2019-01-25T081348.400.json
+<> 2019-01-25T081216.400.json
+<> 2019-01-25T081204.400.json
+###
+

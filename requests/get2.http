@@ -1,0 +1,14 @@
+GET http://localhost:8090/hotels/20
+Accept: application/json
+Content-Type: application/json
+
+{"name" : "Beds", "description" : "Very basic, small rooms but clean", "city" : "Santa Ana", "rating" : 2 }
+
+<> 2019-01-25T082730.200.json
+<> 2019-01-25T082657.200.json
+<> 2019-01-25T082558.404.json
+<> 2019-01-25T082438.404.json
+<> 2019-01-25T082200.404.json
+
+###
+
